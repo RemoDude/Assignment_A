@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment_A</string>
+    <string name="view_products">View products</string>
+    <string name="products_list">Products List</string>
+</resources>
